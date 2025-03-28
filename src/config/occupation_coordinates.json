@@ -1,0 +1,32 @@
+{
+ "MACHINE-HP_DESKTOP-ULU74A2_RT1366X768": {
+        "selTipoOcupacao": [695, 314],     
+		"btnCriarOcupacao": [1243, 379],   
+		"btnSelecaoServidor": [1247, 428], 
+		"cmpNomeOcupacao": [462, 393],     
+		"btnSalvarOcupacao": [880, 532],  
+		"btnFecharAlerta": [876, 496],     
+		"btnCancelarOcupacao": [797, 539], 
+		"posicaoForaTela": [1213, 202]           
+    },
+	"MACHINE-ALIENWARE_SEGER-AlienWare_RT2560X1600": {
+        "selTipoOcupacao": [1297, 473],     
+		"btnCriarOcupacao": [2341, 562],   
+        "btnSelecaoServidor": [2332, 647], 		
+		"cmpNomeOcupacao": [949, 813],   
+		"btnSalvarOcupacao": [1576, 1029],  
+		"btnFecharAlerta": [1573, 967],     
+		"btnCancelarOcupacao": [1455, 1033],		
+		"posicaoForaTela": [2321, 418]          
+    },
+	"MACHINE-ALIENWARE_SEGER-AlienWare_RT1920X1080": {
+        "selTipoOcupacao": [964, 314],     
+		"btnCriarOcupacao": [1660, 376],   
+        "btnSelecaoServidor": [1663, 429], 		
+		"cmpNomeOcupacao": [741, 550],   
+		"btnSalvarOcupacao": [1162, 692],  
+		"btnFecharAlerta": [1155, 652],     
+		"btnCancelarOcupacao": [1077, 693],		
+		"posicaoForaTela": [1638, 282]          
+    }
+}
